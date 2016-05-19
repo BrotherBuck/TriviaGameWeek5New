@@ -1,0 +1,93 @@
+
+
+
+body {
+	text-align: center;
+	background-image: url("http://wallpaperstock.net/world-map-grayscale-wallpapers_34428_1024x768.jpg");
+	color: black;
+	opacity: 0.9;
+	line-height: 1.5;
+	background-repeat: no-repeat;
+	background-size: 100% 1024px;
+	background-position: center;
+	font-family: 'Roboto';
+	font-size: 30px;
+}
+
+
+
+.header {
+	text-align: center;
+	padding: 15px;
+	color: black;
+	background-color: #ffa31a;
+	opacity: 0.9;
+	padding: 10px;
+	font-size: 10px;
+	border: none;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.uppercontainer { padding: 100px
+
+
+}
+
+
+
+
+#mainQuestion {
+	text-align: center;
+	padding: 15px;
+	color: #ffa31a;
+	text-shadow: 5px 5px 5px #000;
+	padding: 10px;
+	font-size: 50px;
+	border: none;
+	font-family: 'Roboto';
+
+
+}
+
+
+button {
+	background-color: #878f92;
+	opacity: 0.9;
+	padding: 10px;
+	font-size: 30px;
+	border: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+	button:hover {
+	background-color: #ffffff;
+	color: #ffa31a;
+}
+
+.lowerContainer {
+
+	padding:50px;
+}
+
+
+
+footer {
+	text-align: center;
+	padding: 15px;
+	color: black;
+	background-color:#ffa31a;
+	opacity: 0.9;
+	padding: 10px;
+	font-size: 10px;
+	border: none;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 5px;
+	margin: 5px;
+}
